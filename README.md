@@ -15,6 +15,9 @@ C++ Framework for Assembly Research
 - imgui, which can be seperated from rendering system.
 ## Render System
 - OpenGL >= 3.x
+## Server and Cross Platform
+- libraries can be compile in common server.
+- should support Windows.
 ## Unit Test
 - Catch2
 ## Documentation
