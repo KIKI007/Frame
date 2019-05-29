@@ -4,13 +4,18 @@ C++ Framework for Assembly Research
 # Core Features
 ## Dataflow Programming
 - battery/link and graphical representation. (like grasshopper)
+- dataflow control and autoparallelization.
 - automatical generate input and output .xml file.
-- autoparallelization.
-## Standardize Data Type
+- battery group which combines each battery's I/O into one Unified I/O.
+## Unified Data Type
 - number, vector, matrix, ...
 - triangle mesh, polygonal mesh, ...
-- data conversion from C++ to python
+- data conversion from C++ to python. (for compas)
 ## User Interface
-- imgui which are independent from rendering.
+- imgui, which can be seperated from rendering system.
 ## Render System
 - OpenGL >= 3.x
+## Unit Test
+- Catch2
+## Documentation
+- ?
