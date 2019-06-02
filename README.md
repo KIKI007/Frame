@@ -22,3 +22,5 @@ C++ Framework for Assembly Research
 - Catch2
 ## Documentation
 - ?
+## Automatically Compiling Check
+- Travis CI
