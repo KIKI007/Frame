@@ -1,0 +1,13 @@
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = 3.3-stable
+[submodule "ext/glad"]
+	path = ext/glad
+	url = https://github.com/libigl/libigl-glad.git
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "ext/eigen"]
+	path = ext/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
