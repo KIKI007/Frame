@@ -1,0 +1,3 @@
+[submodule "ext/libigl-glad"]
+	path = ext/libigl-glad
+	url = https://github.com/libigl/libigl-glad.git
