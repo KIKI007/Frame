@@ -1,5 +1,0 @@
-/usr/local/Cellar/cmake/3.12.3/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -DCMAKE_CXX_COMPILER=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /Users/ziqwang/Documents/GitHub/Frame
--- Nori: using libc++.
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/ziqwang/Documents/GitHub/Frame/cmake-build-debug

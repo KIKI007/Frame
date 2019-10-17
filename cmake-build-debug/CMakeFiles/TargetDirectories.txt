@@ -1,4 +1,0 @@
-/Users/ziqwang/Documents/GitHub/Frame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ziqwang/Documents/GitHub/Frame/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ziqwang/Documents/GitHub/Frame/cmake-build-debug/ext/CMakeFiles/rebuild_cache.dir
-/Users/ziqwang/Documents/GitHub/Frame/cmake-build-debug/ext/CMakeFiles/edit_cache.dir
